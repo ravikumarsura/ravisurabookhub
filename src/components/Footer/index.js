@@ -19,13 +19,13 @@ const Footer = () => (
               <FaTwitter className={textColor} size={20} />
             </button>
             <button type="button" className="footer-buttons">
-              <a href="https://www.instagram.com/puneet_shettyz/" target="/">
+              <a href="https://www.instagram.com/ravikumarsura/" target="/">
                 <FaInstagram className={textColor} size={20} />
               </a>
             </button>
 
             <button type="button" className="footer-buttons">
-              <a href="https://youtu.be/6F5YuWyg7qw" target="/">
+              <a href="https://youtu.be/watch?v=Cy-n-f4vYOw" target="/">
                 <FaYoutube className={textColor} size={20} />
               </a>
             </button>
